@@ -16,5 +16,5 @@ docker build -t poseidon:0.0.1 .
 #### (Adapt to local path)
 
 ```sh
-docker run -ti --network=host -v /Users/leonardmaguin/onogone/code-du-travail-numerique-leo/code_travail_scenario/data:/data poseidon:0.0.1
+docker run -ti --network=host -v $PWD/data:/data poseidon:0.0.1
 ```
