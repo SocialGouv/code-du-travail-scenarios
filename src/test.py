@@ -62,7 +62,7 @@ def test (val, prevs=None, count=3, max_size=2):
     # filter all branches to match the prevs
     branches = list(filter(lambda el : len(prevs) == 0 or len([prev for prev in prevs if el.contains(prev)]) > 0, branches))
 
-    print(branches)
+    #print(branches)
     # create bouquets, loop to generate rated suggestions
     suggestions = loop_create(branches, max_size=max_size, min_level=min_level)
     # filter prevs out of suggestions 
