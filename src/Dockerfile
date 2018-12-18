@@ -9,4 +9,4 @@ WORKDIR /src
 
 RUN pip install -r requirements.txt
 
-CMD ["sh", "run.bash"]
+# CMD ["sh", "run.bash"]

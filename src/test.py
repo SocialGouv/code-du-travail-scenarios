@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created Feb 2018
+Created Dec 2018
 
-@author: onogone, Sami
+@author: onogone
 """
 import sys
 from service.search import query_scenario
@@ -58,10 +58,11 @@ def test (val, prevs=None, count=3, max_size=2):
     max_score = max([el["_score"] for el in queried])
 
     # create all branches from search results
-    branches = [Branche(el["code"], el["vec"], score=el["_score"]/max_score) for el in queried]
+    branches = [Branche(el["code"], el["vec"], score=el["_score"]/max_score, proba=el["proba"]) for el in queried]
     # filter all branches to match the prevs
-    branches = list(filter(lambda el: len([el.contains(prev) for prev in prevs if not el.contains(prev)]) == 0, branches))
+    branches = list(filter(lambda el : len(prevs) == 0 or len([prev for prev in prevs if el.contains(prev)]) > 0, branches))
 
+    print(branches)
     # create bouquets, loop to generate rated suggestions
     suggestions = loop_create(branches, max_size=max_size, min_level=min_level)
     # filter prevs out of suggestions 

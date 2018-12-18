@@ -1,13 +1,17 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from copy import copy
 import math 
 
 ########## DEFINITIONS
 
 class Branche:
-	def __init__(self, code, vec, score=0):
+	def __init__(self, code, vec, score=0, proba=0):
 		self.code = code
 		self.vec = vec
 		self.score = score
+		self.proba = proba
 
 	def export (self):
 		return self.vec
@@ -44,7 +48,7 @@ class Bouquet:
 	
 	@property
 	def size(self):
-		return len(self.branches.keys())
+		return sum([1 + el.proba for el in self.branches.values()]) / 1.5
 
 	def proximity(self, name):
 		return 
@@ -52,6 +56,7 @@ class Bouquet:
 	@property
 	def weight_components(self):
 		branches = list(self.branches.values())
+		if len(branches) == 0: return (0,0,0)
 		return (
 			1 * (self.level)/6 # level is usefull in order to know whether we are closer to a theme or a precise suggestion
 		), (

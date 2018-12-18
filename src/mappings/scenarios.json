@@ -3,6 +3,9 @@
     "id": {
       "type": "long"
     },
+    "proba": {
+      "type": "float"
+    },
     "vec": {
       "analyzer": "scenario_analyzer",
       "search_analyzer": "scenario_analyzer",

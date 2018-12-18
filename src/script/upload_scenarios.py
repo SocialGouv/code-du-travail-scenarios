@@ -1,5 +1,6 @@
-#docker pull docker.elastic.co/elasticsearch/elasticsearch:6.3.1
-#docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:6.3.1
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import os
 import json
 import pickle
@@ -12,9 +13,6 @@ from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 
 default_uri = "http://127.0.0.1:9411/"
-
-#docker build -t mappings:0.0.1 mappings
-#docker run -d -p 127.0.0.1:9411:9200 mappings:0.0.1
 
 """
 
@@ -29,8 +27,11 @@ def init_scenarios():
 	indices = esclient.indices
 
 	if not indices.exists(index="scenarios"):
-		print(indices.create(index="scenarios"))
-	
+		indices.create(index="scenarios")
+
+	with open("mappings/synonyms.json", "r") as file:
+		synonyms = json.load(file)
+
 	if "analysis" not in indices.get(index="scenarios")["scenarios"]["settings"]["index"] or "scenario_analyzer" not in indices.get(index="scenarios")["scenarios"]["settings"]["index"]["analysis"]["analyzer"]:
 		indices.close(index="scenarios")
 		
@@ -38,6 +39,10 @@ def init_scenarios():
 		  "settings": {
 		  "analysis": {
 		    "filter": {
+		    "synonym_filter": {
+          "type": "synonym", 
+          "synonyms": synonyms
+        },
 		      "french_elision": {
 		        "type": "elision",
 		        "articles_case": True,
@@ -72,6 +77,7 @@ def init_scenarios():
 		        "filter": [
 		          "french_elision",
 		          "lowercase",
+            	  "synonym_filter",
 		          "french_stop",
 		          "icu_folding"
 		        ]
@@ -91,13 +97,13 @@ def fill_scenarios():
 	def build_json (row):
 		res = {
 			"code": row["code"],
+			"proba": row["Probabilité (/10)"]/10,
 			"vec": []
 		}
+		res["proba"] = res["proba"] if not math.isnan(res['proba']) else 5
 		for el in ["sousthème_1", "sousthème_2", "sousthème_3", "sousthème_4", "sousthème_5", "sousthème_6"]:
-			print(type(row[el]) == type(''),  type(row[el]), row[el])
 			if type(row[el]) == str and len(row[el]) > 0 :
 				res["vec"].append(row[el])
-
 		full = {
 			"_index": "scenarios",
 			"_type": "scenarios",
@@ -109,7 +115,8 @@ def fill_scenarios():
 
 
 	df = pd.read_csv("../data/scenario.csv")
-	tree = df[["code", "sousthème_1", "sousthème_2", "sousthème_3", "sousthème_4", "sousthème_5", "sousthème_6"]]
+	tree = df[["code", "sousthème_1", "sousthème_2", "sousthème_3", "sousthème_4", "sousthème_5", "sousthème_6", "Probabilité (/10)"]]
+	print(tree)
 
 	scenarios = []
 

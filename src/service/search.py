@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import sys, os
 import regex
 import math
@@ -20,6 +23,7 @@ def query_scenario (original, vec=None, size=100):
 		res = {
 			"code": el["_source"]["code"],
 			"vec": el["_source"]["vec"],
+			"proba": el["_source"]["proba"],
 			"_score": el["_score"]
 		}
 		return res
