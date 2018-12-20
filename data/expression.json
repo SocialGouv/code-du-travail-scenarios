@@ -23130,5 +23130,2340 @@
   {
     "input": "Zone urbaine sensible",
     "weight": 1
-  }
+  },{
+"input": "smic 20108",
+"weight": 10
+},
+{
+"input": "smic",
+"weight": 10
+},
+{
+"input": "dpae",
+"weight": 10
+},
+{
+"input": "cpf",
+"weight": 10
+},
+{
+"input": "auto entrepreneur",
+"weight": 10
+},
+{
+"input": "rupture conventionnelle",
+"weight": 10
+},
+{
+"input": "lettre de demission",
+"weight": 10
+},
+{
+"input": "sylae",
+"weight": 10
+},
+{
+"input": "inspection du travail",
+"weight": 10
+},
+{
+"input": "autoentrepreneur",
+"weight": 10
+},
+{
+"input": "kbis",
+"weight": 10
+},
+{
+"input": "cfe",
+"weight": 10
+},
+{
+"input": "cheque vacances",
+"weight": 10
+},
+{
+"input": "contrat de professionnalisation",
+"weight": 10
+},
+{
+"input": "chsct",
+"weight": 10
+},
+{
+"input": "rupture conventionnelle 20108",
+"weight": 10
+},
+{
+"input": "convention collective",
+"weight": 10
+},
+{
+"input": "extrait kbis",
+"weight": 10
+},
+{
+"input": "vae",
+"weight": 10
+},
+{
+"input": "cif",
+"weight": 10
+},
+{
+"input": "csp",
+"weight": 10
+},
+{
+"input": "cice",
+"weight": 10
+},
+{
+"input": "abandon de poste",
+"weight": 10
+},
+{
+"input": "congé parental",
+"weight": 10
+},
+{
+"input": "congé maternité",
+"weight": 10
+},
+{
+"input": "compte personnel de formation",
+"weight": 10
+},
+{
+"input": "cse",
+"weight": 10
+},
+{
+"input": "dif",
+"weight": 10
+},
+{
+"input": "dsi",
+"weight": 10
+},
+{
+"input": "lettre de démission",
+"weight": 10
+},
+{
+"input": "are",
+"weight": 10
+},
+{
+"input": "medecine du travail",
+"weight": 10
+},
+{
+"input": "micro entreprise",
+"weight": 10
+},
+{
+"input": "rtt",
+"weight": 10
+},
+{
+"input": "code ape",
+"weight": 10
+},
+{
+"input": "arret maladie",
+"weight": 10
+},
+{
+"input": "bilan de compétences",
+"weight": 10
+},
+{
+"input": "cet",
+"weight": 10
+},
+{
+"input": "accident de travail",
+"weight": 10
+},
+{
+"input": "cvae",
+"weight": 10
+},
+{
+"input": "indemnité de licenciement",
+"weight": 10
+},
+{
+"input": "solde de tout compte",
+"weight": 10
+},
+{
+"input": "licenciement économique",
+"weight": 10
+},
+{
+"input": "congés payés",
+"weight": 10
+},
+{
+"input": "epargne salariale",
+"weight": 10
+},
+{
+"input": "pse",
+"weight": 10
+},
+{
+"input": "ape",
+"weight": 10
+},
+{
+"input": "cdd",
+"weight": 10
+},
+{
+"input": "certificat de travail",
+"weight": 10
+},
+{
+"input": "demission cdi chomage",
+"weight": 10
+},
+{
+"input": "perco",
+"weight": 10
+},
+{
+"input": "simulation chomage",
+"weight": 10
+},
+{
+"input": "portage salarial",
+"weight": 10
+},
+{
+"input": "heures supplémentaires",
+"weight": 10
+},
+{
+"input": "arret de travail",
+"weight": 10
+},
+{
+"input": "indemnité licenciement",
+"weight": 10
+},
+{
+"input": "contrat d'apprentissage",
+"weight": 10
+},
+{
+"input": "demission",
+"weight": 10
+},
+{
+"input": "medaille du travail",
+"weight": 10
+},
+{
+"input": "devenir auto entrepreneur",
+"weight": 10
+},
+{
+"input": "maladie professionnelle",
+"weight": 10
+},
+{
+"input": "indemnité rupture conventionnelle",
+"weight": 10
+},
+{
+"input": "bareme kilometrique 20107",
+"weight": 10
+},
+{
+"input": "modele lettre de demission",
+"weight": 10
+},
+{
+"input": "licenciement pour faute grave",
+"weight": 10
+},
+{
+"input": "statut auto entrepreneur",
+"weight": 10
+},
+{
+"input": "disponibilité",
+"weight": 10
+},
+{
+"input": "cice 20108",
+"weight": 10
+},
+{
+"input": "astreinte",
+"weight": 10
+},
+{
+"input": "période d'essai",
+"weight": 10
+},
+{
+"input": "contrat professionnalisation",
+"weight": 10
+},
+{
+"input": "promesse d'embauche",
+"weight": 10
+},
+{
+"input": "rupture conventionnelle indemnité",
+"weight": 10
+},
+{
+"input": "demission cdi",
+"weight": 10
+},
+{
+"input": "clause de non concurrence",
+"weight": 10
+},
+{
+"input": "foyer jeune travailleur",
+"weight": 10
+},
+{
+"input": "temps partiel",
+"weight": 10
+},
+{
+"input": "préavis démission",
+"weight": 10
+},
+{
+"input": "simulation pole emploi",
+"weight": 10
+},
+{
+"input": "lettre demission",
+"weight": 10
+},
+{
+"input": "harcèlement moral",
+"weight": 10
+},
+{
+"input": "congés paternité",
+"weight": 10
+},
+{
+"input": "conges maternite",
+"weight": 10
+},
+{
+"input": "exemple lettre de démission",
+"weight": 10
+},
+{
+"input": "contrat d apprentissage",
+"weight": 10
+},
+{
+"input": "travail de nuit",
+"weight": 10
+},
+{
+"input": "journée de solidarité",
+"weight": 10
+},
+{
+"input": "entretien professionnel",
+"weight": 10
+},
+{
+"input": "congé sabbatique",
+"weight": 10
+},
+{
+"input": "attestation de stage",
+"weight": 10
+},
+{
+"input": "arce",
+"weight": 10
+},
+{
+"input": "comité d'entreprise",
+"weight": 10
+},
+{
+"input": "démission",
+"weight": 10
+},
+{
+"input": "promesse d embauche",
+"weight": 10
+},
+{
+"input": "contrat de travail",
+"weight": 10
+},
+{
+"input": "cumul emploi retraite",
+"weight": 10
+},
+{
+"input": "lettre de démission cdi",
+"weight": 10
+},
+{
+"input": "heure supplémentaire",
+"weight": 10
+},
+{
+"input": "contrat apprentissage",
+"weight": 10
+},
+{
+"input": "accident du travail",
+"weight": 10
+},
+{
+"input": "délégué du personnel",
+"weight": 10
+},
+{
+"input": "congé sans solde",
+"weight": 10
+},
+{
+"input": "nbi",
+"weight": 10
+},
+{
+"input": "calcul indemnité rupture conventionnelle",
+"weight": 10
+},
+{
+"input": "médecine du travail",
+"weight": 10
+},
+{
+"input": "calcul indemnité de licenciement",
+"weight": 10
+},
+{
+"input": "compte epargne temps",
+"weight": 10
+},
+{
+"input": "acompte cvae",
+"weight": 10
+},
+{
+"input": "reglement interieur",
+"weight": 10
+},
+{
+"input": "calcul indemnité licenciement",
+"weight": 10
+},
+{
+"input": "bdes",
+"weight": 10
+},
+{
+"input": "harcèlement au travail",
+"weight": 10
+},
+{
+"input": "travailleur handicapé",
+"weight": 10
+},
+{
+"input": "rupture cdd",
+"weight": 10
+},
+{
+"input": "licenciement pour faute",
+"weight": 10
+},
+{
+"input": "contrat de professionnalisation salaire",
+"weight": 10
+},
+{
+"input": "licenciement economique",
+"weight": 10
+},
+{
+"input": "participation",
+"weight": 10
+},
+{
+"input": "gratification stage",
+"weight": 10
+},
+{
+"input": "médaille du travail",
+"weight": 10
+},
+{
+"input": "faute grave",
+"weight": 10
+},
+{
+"input": "interessement",
+"weight": 10
+},
+{
+"input": "congés scolaires 20108",
+"weight": 10
+},
+{
+"input": "dads",
+"weight": 10
+},
+{
+"input": "cessation d'activité",
+"weight": 10
+},
+{
+"input": "rémunération stage",
+"weight": 10
+},
+{
+"input": "rupture conventionnelle cdi",
+"weight": 10
+},
+{
+"input": "declaration accident de travail",
+"weight": 10
+},
+{
+"input": "vacataire",
+"weight": 10
+},
+{
+"input": "indemnité légale de licenciement",
+"weight": 10
+},
+{
+"input": "calcul congés payés",
+"weight": 10
+},
+{
+"input": "renouvellement cdd",
+"weight": 10
+},
+{
+"input": "télétravail",
+"weight": 10
+},
+{
+"input": "conge maternite",
+"weight": 10
+},
+{
+"input": "taxe sur les salaires",
+"weight": 10
+},
+{
+"input": "demande accre",
+"weight": 10
+},
+{
+"input": "congé parental d'éducation",
+"weight": 10
+},
+{
+"input": "salaire contrat pro",
+"weight": 10
+},
+{
+"input": "conges payes",
+"weight": 10
+},
+{
+"input": "calcul rupture conventionnelle",
+"weight": 10
+},
+{
+"input": "pension invalidité",
+"weight": 10
+},
+{
+"input": "période d'essai cdd",
+"weight": 10
+},
+{
+"input": "harcèlement moral au travail",
+"weight": 10
+},
+{
+"input": "prime d'intéressement",
+"weight": 10
+},
+{
+"input": "congés maternité",
+"weight": 10
+},
+{
+"input": "accre auto entrepreneur",
+"weight": 10
+},
+{
+"input": "congés",
+"weight": 10
+},
+{
+"input": "supplément familial de traitement",
+"weight": 10
+},
+{
+"input": "procédure rupture conventionnelle",
+"weight": 10
+},
+{
+"input": "congé individuel de formation",
+"weight": 10
+},
+{
+"input": "medecin du travail",
+"weight": 10
+},
+{
+"input": "temps de travail",
+"weight": 10
+},
+{
+"input": "licenciement pour motif personnel",
+"weight": 10
+},
+{
+"input": "accident de trajet",
+"weight": 10
+},
+{
+"input": "demande d'accre",
+"weight": 10
+},
+{
+"input": "indemnités de licenciement",
+"weight": 10
+},
+{
+"input": "intéressement",
+"weight": 10
+},
+{
+"input": "indemnité de rupture conventionnelle",
+"weight": 10
+},
+{
+"input": "acompte cvae 20108",
+"weight": 10
+},
+{
+"input": "congés sans solde",
+"weight": 10
+},
+{
+"input": "taxe d'apprentissage",
+"weight": 10
+},
+{
+"input": "periode essai cdd",
+"weight": 10
+},
+{
+"input": "reconnaissance travailleur handicapé",
+"weight": 10
+},
+{
+"input": "mise en disponibilité",
+"weight": 10
+},
+{
+"input": "délégué syndical",
+"weight": 10
+},
+{
+"input": "contrat de sécurisation professionnelle",
+"weight": 10
+},
+{
+"input": "simulateur calcul indemnité de licenciement",
+"weight": 10
+},
+{
+"input": "procedure de licenciement",
+"weight": 10
+},
+{
+"input": "conge paternite",
+"weight": 10
+},
+{
+"input": "taux cice 20108",
+"weight": 10
+},
+{
+"input": "indemnité compensatrice de congés payés",
+"weight": 10
+},
+{
+"input": "déclaration accident du travail",
+"weight": 10
+},
+{
+"input": "repos hebdomadaire",
+"weight": 10
+},
+{
+"input": "discrimination au travail",
+"weight": 10
+},
+{
+"input": "chomage partiel",
+"weight": 10
+},
+{
+"input": "plan epargne entreprise",
+"weight": 10
+},
+{
+"input": "indemnité licenciement économique",
+"weight": 10
+},
+{
+"input": "supplément familial",
+"weight": 10
+},
+{
+"input": "changement de statut étudiant à salarié",
+"weight": 10
+},
+{
+"input": "démission légitime",
+"weight": 10
+},
+{
+"input": "clause de mobilité",
+"weight": 10
+},
+{
+"input": "travail dissimulé",
+"weight": 10
+},
+{
+"input": "compte épargne temps",
+"weight": 10
+},
+{
+"input": "inspecteur du travail",
+"weight": 10
+},
+{
+"input": "rupture conventionelle",
+"weight": 10
+},
+{
+"input": "rémunération stagiaire",
+"weight": 10
+},
+{
+"input": "rupture conventionnel",
+"weight": 10
+},
+{
+"input": "indemnité compensatrice de préavis",
+"weight": 10
+},
+{
+"input": "préavis licenciement",
+"weight": 10
+},
+{
+"input": "calcul des congés payés",
+"weight": 10
+},
+{
+"input": "indemnités licenciement",
+"weight": 10
+},
+{
+"input": "taxe apprentissage",
+"weight": 10
+},
+{
+"input": "travailler à l'étranger",
+"weight": 10
+},
+{
+"input": "période de professionnalisation",
+"weight": 10
+},
+{
+"input": "a partir de quel age peut on travailler",
+"weight": 10
+},
+{
+"input": "congé longue maladie",
+"weight": 10
+},
+{
+"input": "cdd d'usage",
+"weight": 10
+},
+{
+"input": "complement familiale",
+"weight": 10
+},
+{
+"input": "salaire journalier de référence",
+"weight": 10
+},
+{
+"input": "indemnité congés payés",
+"weight": 10
+},
+{
+"input": "durée légale du travail",
+"weight": 10
+},
+{
+"input": "cdd renouvellement",
+"weight": 10
+},
+{
+"input": "accident travail",
+"weight": 10
+},
+{
+"input": "modification du contrat de travail",
+"weight": 10
+},
+{
+"input": "calcul indemnité congés payés",
+"weight": 10
+},
+{
+"input": "congés parental",
+"weight": 10
+},
+{
+"input": "conges paternite",
+"weight": 10
+},
+{
+"input": "autorisation de travail",
+"weight": 10
+},
+{
+"input": "gratification stagiaire",
+"weight": 10
+},
+{
+"input": "indemnite licenciement",
+"weight": 10
+},
+{
+"input": "indemnite de licenciement",
+"weight": 10
+},
+{
+"input": "cumuler deux emplois",
+"weight": 10
+},
+{
+"input": "travailler en france",
+"weight": 10
+},
+{
+"input": "cerfa accident du travail",
+"weight": 10
+},
+{
+"input": "travail le dimanche",
+"weight": 10
+},
+{
+"input": "simulation rupture conventionnelle",
+"weight": 10
+},
+{
+"input": "accident de travail qui paye",
+"weight": 10
+},
+{
+"input": "modele certificat de travail",
+"weight": 10
+},
+{
+"input": "indemnité de congés payés",
+"weight": 10
+},
+{
+"input": "calcul indemnité compensatrice de congés payés",
+"weight": 10
+},
+{
+"input": "a quel age peut on travailler",
+"weight": 10
+},
+{
+"input": "feuille d'accident du travail",
+"weight": 10
+},
+{
+"input": "préavis et congés",
+"weight": 10
+},
+{
+"input": "accident de travail indemnisation",
+"weight": 10
+},
+{
+"input": "congés bonifiés",
+"weight": 10
+},
+{
+"input": "certificat de travail exemple",
+"weight": 10
+},
+{
+"input": "déclaration d'accident de travail",
+"weight": 10
+},
+{
+"input": "démission et congés payés",
+"weight": 10
+},
+{
+"input": "les congés payés",
+"weight": 10
+},
+{
+"input": "préavis et congés payés",
+"weight": 10
+},
+{
+"input": "arret maladie et congés payés",
+"weight": 10
+},
+{
+"input": "travail à temps partiel",
+"weight": 10
+},
+{
+"input": "indemnisation accident du travail",
+"weight": 10
+},
+{
+"input": "congés payés et maladie",
+"weight": 10
+},
+{
+"input": "temps de travail maximum",
+"weight": 10
+},
+{
+"input": "declaration accident du travail",
+"weight": 10
+},
+{
+"input": "durée maximale de travail",
+"weight": 10
+},
+{
+"input": "comment calculer les congés payés",
+"weight": 10
+},
+{
+"input": "congés naissance",
+"weight": 10
+},
+{
+"input": "feuille accident du travail",
+"weight": 10
+},
+{
+"input": "congés payés cdd",
+"weight": 10
+},
+{
+"input": "teletravail",
+"weight": 10
+},
+{
+"input": "congés pendant préavis",
+"weight": 10
+},
+{
+"input": "ijss accident du travail",
+"weight": 10
+},
+{
+"input": "travailler en mairie",
+"weight": 10
+},
+{
+"input": "congés sabbatique",
+"weight": 10
+},
+{
+"input": "congés décès",
+"weight": 10
+},
+{
+"input": "demande d'autorisation de travail",
+"weight": 10
+},
+{
+"input": "médailles du travail",
+"weight": 10
+},
+{
+"input": "indemnités congés payés",
+"weight": 10
+},
+{
+"input": "congés mariage",
+"weight": 10
+},
+{
+"input": "congés pacs",
+"weight": 10
+},
+{
+"input": "travail mineur",
+"weight": 10
+},
+{
+"input": "retraite et travail",
+"weight": 10
+},
+{
+"input": "accident de travail déclaration",
+"weight": 10
+},
+{
+"input": "aah et travail",
+"weight": 10
+},
+{
+"input": "autorisation provisoire de travail",
+"weight": 10
+},
+{
+"input": "visa travail france",
+"weight": 10
+},
+{
+"input": "congés payés temps partiel",
+"weight": 10
+},
+{
+"input": "harcelement au travail",
+"weight": 10
+},
+{
+"input": "avocat droit du travail gratuit",
+"weight": 10
+},
+{
+"input": "age minimum pour travailler",
+"weight": 10
+},
+{
+"input": "certificat de travail modèle",
+"weight": 10
+},
+{
+"input": "accident trajet travail",
+"weight": 10
+},
+{
+"input": "congés scolaire 20108",
+"weight": 10
+},
+{
+"input": "congés payés et préavis",
+"weight": 10
+},
+{
+"input": "harcèlement travail",
+"weight": 10
+},
+{
+"input": "formulaire accident du travail",
+"weight": 10
+},
+{
+"input": "accident de travail salaire",
+"weight": 10
+},
+{
+"input": "harcelement moral au travail",
+"weight": 10
+},
+{
+"input": "médaille d'honneur du travail",
+"weight": 10
+},
+{
+"input": "modèle certificat de travail",
+"weight": 10
+},
+{
+"input": "indemnité accident du travail",
+"weight": 10
+},
+{
+"input": "indemnité journalière accident du travail",
+"weight": 10
+},
+{
+"input": "congés evenements familiaux",
+"weight": 10
+},
+{
+"input": "indemnité accident de travail",
+"weight": 10
+},
+{
+"input": "congés payés pendant préavis",
+"weight": 10
+},
+{
+"input": "régularisation par le travail",
+"weight": 10
+},
+{
+"input": "peut on travailler a 106 ans",
+"weight": 10
+},
+{
+"input": "declaration accident travail",
+"weight": 10
+},
+{
+"input": "déclaration accident du travail en ligne",
+"weight": 10
+},
+{
+"input": "pacs congés",
+"weight": 10
+},
+{
+"input": "congés de naissance",
+"weight": 10
+},
+{
+"input": "arret maladie puis congés payés",
+"weight": 10
+},
+{
+"input": "congés payés non pris",
+"weight": 10
+},
+{
+"input": "démission congés payés",
+"weight": 10
+},
+{
+"input": "pacs jours de congés",
+"weight": 10
+},
+{
+"input": "durée du travail",
+"weight": 10
+},
+{
+"input": "déclaration accident de travail",
+"weight": 10
+},
+{
+"input": "congés et préavis",
+"weight": 10
+},
+{
+"input": "age légal pour travailler",
+"weight": 10
+},
+{
+"input": "préavis démission congés",
+"weight": 10
+},
+{
+"input": "travailler à la retraite",
+"weight": 10
+},
+{
+"input": "préavis congés",
+"weight": 10
+},
+{
+"input": "inaptitude au travail",
+"weight": 10
+},
+{
+"input": "jours de congés pacs",
+"weight": 10
+},
+{
+"input": "certificats de travail",
+"weight": 10
+},
+{
+"input": "arret de travail pendant préavis",
+"weight": 10
+},
+{
+"input": "demande medaille du travail",
+"weight": 10
+},
+{
+"input": "congés payés calcul",
+"weight": 10
+},
+{
+"input": "résiliation judiciaire du contrat de travail",
+"weight": 10
+},
+{
+"input": "demande de médaille du travail",
+"weight": 10
+},
+{
+"input": "dossier travailleur handicapé",
+"weight": 10
+},
+{
+"input": "définition accident du travail",
+"weight": 10
+},
+{
+"input": "calcul indemnité de congés payés",
+"weight": 10
+},
+{
+"input": "medaille travail",
+"weight": 10
+},
+{
+"input": "cdd congés payés",
+"weight": 10
+},
+{
+"input": "age legal travail",
+"weight": 10
+},
+{
+"input": "horaire de sortie arrêt de travail",
+"weight": 10
+},
+{
+"input": "médecin du travail",
+"weight": 10
+},
+{
+"input": "permis de travail france",
+"weight": 10
+},
+{
+"input": "indemnités de congés payés",
+"weight": 10
+},
+{
+"input": "certificat travail",
+"weight": 10
+},
+{
+"input": "travail en france",
+"weight": 10
+},
+{
+"input": "calcul indemnité compensatrice congés payés",
+"weight": 10
+},
+{
+"input": "déclarer un accident de travail",
+"weight": 10
+},
+{
+"input": "cerfa accident de travail",
+"weight": 10
+},
+{
+"input": "accident du travail salaire",
+"weight": 10
+},
+{
+"input": "congés scolaires",
+"weight": 10
+},
+{
+"input": "visite médicale du travail",
+"weight": 10
+},
+{
+"input": "maladie et congés payés",
+"weight": 10
+},
+{
+"input": "paiement congés payés",
+"weight": 10
+},
+{
+"input": "maintien de salaire accident du travail",
+"weight": 10
+},
+{
+"input": "accident de travail trajet",
+"weight": 10
+},
+{
+"input": "suspension du contrat de travail",
+"weight": 10
+},
+{
+"input": "acquisition congés payés",
+"weight": 10
+},
+{
+"input": "modification contrat de travail",
+"weight": 10
+},
+{
+"input": "alcool au travail",
+"weight": 10
+},
+{
+"input": "calcul ijss accident du travail",
+"weight": 10
+},
+{
+"input": "medaille du travail 20 ans",
+"weight": 10
+},
+{
+"input": "calcul indemnités congés payés",
+"weight": 10
+},
+{
+"input": "arret de travail indemnisation",
+"weight": 10
+},
+{
+"input": "10er mai travaillé",
+"weight": 10
+},
+{
+"input": "accident de travail reprise",
+"weight": 10
+},
+{
+"input": "congés de paternité",
+"weight": 10
+},
+{
+"input": "accident du travail qui paye",
+"weight": 10
+},
+{
+"input": "sécurité au travail",
+"weight": 10
+},
+{
+"input": "demande autorisation de travail",
+"weight": 10
+},
+{
+"input": "arret de travail employeur",
+"weight": 10
+},
+{
+"input": "congés longue maladie",
+"weight": 10
+},
+{
+"input": "travail du dimanche",
+"weight": 10
+},
+{
+"input": "visite médicale travail",
+"weight": 10
+},
+{
+"input": "congés payés et arrêt maladie",
+"weight": 10
+},
+{
+"input": "travailler a 104 ans",
+"weight": 10
+},
+{
+"input": "arret de travail fonctionnaire",
+"weight": 10
+},
+{
+"input": "paiement des congés payés",
+"weight": 10
+},
+{
+"input": "calcul indemnité congés payés fin de contrat",
+"weight": 10
+},
+{
+"input": "préavis congés payés",
+"weight": 10
+},
+{
+"input": "modèle de certificat de travail",
+"weight": 10
+},
+{
+"input": "congés pour pacs",
+"weight": 10
+},
+{
+"input": "indemnité compensatrice de congés payés calcul",
+"weight": 10
+},
+{
+"input": "calculer congés payés",
+"weight": 10
+},
+{
+"input": "indemnité compensatrice congés payés",
+"weight": 10
+},
+{
+"input": "congés pour mariage",
+"weight": 10
+},
+{
+"input": "ij accident du travail",
+"weight": 10
+},
+{
+"input": "accident du travail déclaration",
+"weight": 10
+},
+{
+"input": "maintien de salaire accident de travail",
+"weight": 10
+},
+{
+"input": "accident de travail définition",
+"weight": 10
+},
+{
+"input": "arrêt maladie congés payés",
+"weight": 10
+},
+{
+"input": "foyer des jeunes travailleurs",
+"weight": 10
+},
+{
+"input": "travail le 10er mai",
+"weight": 10
+},
+{
+"input": "paiement accident de travail",
+"weight": 10
+},
+{
+"input": "accident de travail fonction publique",
+"weight": 10
+},
+{
+"input": "visa de travail france",
+"weight": 10
+},
+{
+"input": "suspension contrat de travail",
+"weight": 10
+},
+{
+"input": "accident travail salaire",
+"weight": 10
+},
+{
+"input": "pacs jour de congés",
+"weight": 10
+},
+{
+"input": "médaille du travail fonction publique",
+"weight": 10
+},
+{
+"input": "congés pour évènements familiaux",
+"weight": 10
+},
+{
+"input": "arrêt de travail",
+"weight": 10
+},
+{
+"input": "démission préavis congés",
+"weight": 10
+},
+{
+"input": "indemnités compensatrice de congés payés",
+"weight": 10
+},
+{
+"input": "travailleur indépendant",
+"weight": 10
+},
+{
+"input": "harcèlement moral travail",
+"weight": 10
+},
+{
+"input": "dossier médaille du travail",
+"weight": 10
+},
+{
+"input": "notice arret de travail",
+"weight": 10
+},
+{
+"input": "indemnisation accident de travail",
+"weight": 10
+},
+{
+"input": "indemnité journalière arret de travail",
+"weight": 10
+},
+{
+"input": "congés décès fonction publique",
+"weight": 10
+},
+{
+"input": "travailler pendant sa retraite",
+"weight": 10
+},
+{
+"input": "visite de reprise médecine du travail",
+"weight": 10
+},
+{
+"input": "reprise apres accident de travail",
+"weight": 10
+},
+{
+"input": "congés fonction publique",
+"weight": 10
+},
+{
+"input": "travailler a la mairie",
+"weight": 10
+},
+{
+"input": "heure de travail par semaine",
+"weight": 10
+},
+{
+"input": "temps de travail annuel",
+"weight": 10
+},
+{
+"input": "congés bonifiés fonction publique",
+"weight": 10
+},
+{
+"input": "alcool sur le lieu de travail",
+"weight": 10
+},
+{
+"input": "déclaration accident du travail cerfa",
+"weight": 10
+},
+{
+"input": "congés annuels",
+"weight": 10
+},
+{
+"input": "travailler sans contrat",
+"weight": 10
+},
+{
+"input": "accident de travail payé a 1000",
+"weight": 10
+},
+{
+"input": "retraite travailleur handicapé",
+"weight": 10
+},
+{
+"input": "travailler après la retraite",
+"weight": 10
+},
+{
+"input": "travail des mineurs",
+"weight": 10
+},
+{
+"input": "calculer les congés payés",
+"weight": 10
+},
+{
+"input": "travailleurs handicapés",
+"weight": 10
+},
+{
+"input": "attestation accident de travail",
+"weight": 10
+},
+{
+"input": "travailler a l'etranger",
+"weight": 10
+},
+{
+"input": "congés pour déménagement",
+"weight": 10
+},
+{
+"input": "temps de travail fonction publique territoriale",
+"weight": 10
+},
+{
+"input": "calcul ijss accident du travail 20108",
+"weight": 10
+},
+{
+"input": "congés déménagement",
+"weight": 10
+},
+{
+"input": "rente accident du travail",
+"weight": 10
+},
+{
+"input": "congés de maternité",
+"weight": 10
+},
+{
+"input": "demission pendant arret de travail",
+"weight": 10
+},
+{
+"input": "congés maternité calcul",
+"weight": 10
+},
+{
+"input": "congés payes",
+"weight": 10
+},
+{
+"input": "aménagement du temps de travail",
+"weight": 10
+},
+{
+"input": "arret maladie avant congés",
+"weight": 10
+},
+{
+"input": "définition accident de travail",
+"weight": 10
+},
+{
+"input": "travail 10er mai",
+"weight": 10
+},
+{
+"input": "medailles du travail",
+"weight": 10
+},
+{
+"input": "quelle est la durée maximale de travail par jour ?",
+"weight": 10
+},
+{
+"input": "cdd congés",
+"weight": 10
+},
+{
+"input": "autorisation de travail direccte",
+"weight": 10
+},
+{
+"input": "congés préavis",
+"weight": 10
+},
+{
+"input": "déclaration d'accident du travail",
+"weight": 10
+},
+{
+"input": "compte pénibilité travail de nuit",
+"weight": 10
+},
+{
+"input": "alcool lieu de travail",
+"weight": 10
+},
+{
+"input": "accident du travail indemnisation",
+"weight": 10
+},
+{
+"input": "heure maximum de travail par jour",
+"weight": 10
+},
+{
+"input": "congés enfant malade",
+"weight": 10
+},
+{
+"input": "arret de travail heures de sortie",
+"weight": 10
+},
+{
+"input": "foyer de jeunes travailleurs",
+"weight": 10
+},
+{
+"input": "simulateur calcul congés payés",
+"weight": 10
+},
+{
+"input": "age pour travailler",
+"weight": 10
+},
+{
+"input": "modele certificat de travail 20108",
+"weight": 10
+},
+{
+"input": "indemnités journalières accident du travail",
+"weight": 10
+},
+{
+"input": "peut on reprendre le travail avant la fin d'un arret maladie",
+"weight": 10
+},
+{
+"input": "congés fonction publique territoriale",
+"weight": 10
+},
+{
+"input": "accident du travail employeur",
+"weight": 10
+},
+{
+"input": "prise de congés payés",
+"weight": 10
+},
+{
+"input": "exemple certificat de travail",
+"weight": 10
+},
+{
+"input": "congés payés préavis",
+"weight": 10
+},
+{
+"input": "accident du travail fonction publique",
+"weight": 10
+},
+{
+"input": "code du travail congés payés",
+"weight": 10
+},
+{
+"input": "code du travail congés payés",
+"weight": 10
+},
+{
+"input": "titre de séjour étudiant travail",
+"weight": 10
+},
+{
+"input": "salaire accident de travail",
+"weight": 10
+},
+{
+"input": "travailler en retraite",
+"weight": 10
+},
+{
+"input": "accident du travail définition",
+"weight": 10
+},
+{
+"input": "formulaire medaille du travail",
+"weight": 10
+},
+{
+"input": "temps de travail maximum par jour",
+"weight": 10
+},
+{
+"input": "1010 jours congés paternité",
+"weight": 10
+},
+{
+"input": "congés exceptionnels décès",
+"weight": 10
+},
+{
+"input": "congés payés pendant préavis suite démission",
+"weight": 10
+},
+{
+"input": "heures supplémentaires code du travail",
+"weight": 10
+},
+{
+"input": "congés exceptionnels",
+"weight": 10
+},
+{
+"input": "congés individuel de formation",
+"weight": 10
+},
+{
+"input": "pas de contrat de travail",
+"weight": 10
+},
+{
+"input": "exemple calcul indemnité congés payés",
+"weight": 10
+},
+{
+"input": "foyer jeunes travailleurs",
+"weight": 10
+},
+{
+"input": "certificat accident de travail",
+"weight": 10
+},
+{
+"input": "mi temps therapeutique medecin du travail",
+"weight": 10
+},
+{
+"input": "maintien salaire accident travail",
+"weight": 10
+},
+{
+"input": "accident travail trajet",
+"weight": 10
+},
+{
+"input": "préavis démission congés payés",
+"weight": 10
+},
+{
+"input": "heures de sortie en arrêt de travail",
+"weight": 10
+},
+{
+"input": "contrat de travail temporaire",
+"weight": 10
+},
+{
+"input": "report congés payés",
+"weight": 10
+},
+{
+"input": "santé et sécurité au travail",
+"weight": 10
+},
+{
+"input": "cerfa declaration accident de travail",
+"weight": 10
+},
+{
+"input": "reconnaissance travailleur handicapé et retraite",
+"weight": 10
+},
+{
+"input": "déclarer un accident du travail",
+"weight": 10
+},
+{
+"input": "autorisation de travail étudiant",
+"weight": 10
+},
+{
+"input": "heure de travail par jour",
+"weight": 10
+},
+{
+"input": "disponibilité fonction publique hospitalière et travail dans le privé",
+"weight": 10
+},
+{
+"input": "reprise anticipée arrêt de travail",
+"weight": 10
+},
+{
+"input": "congés exceptionnel décès",
+"weight": 10
+},
+{
+"input": "congés parental d'éducation",
+"weight": 10
+},
+{
+"input": "travailleur de nuit",
+"weight": 10
+},
+{
+"input": "travail dissimulé sanction",
+"weight": 10
+},
+{
+"input": "incapacité de travail",
+"weight": 10
+},
+{
+"input": "accident de travail que faire",
+"weight": 10
+},
+{
+"input": "declarer accident travail",
+"weight": 10
+},
+{
+"input": "congés stagiaire",
+"weight": 10
+},
+{
+"input": "reprise après accident du travail",
+"weight": 10
+},
+{
+"input": "reconnaissance travailleur handicapé mdph",
+"weight": 10
+},
+{
+"input": "indemnité légale de licenciement code du travail",
+"weight": 10
+},
+{
+"input": "envoi arret de travail 48h ouvrable",
+"weight": 10
+},
+{
+"input": "congés payés démission",
+"weight": 10
+},
+{
+"input": "attestation de salaire accident du travail",
+"weight": 10
+},
+{
+"input": "congés après arrêt maladie",
+"weight": 10
+},
+{
+"input": "procédure accident de travail",
+"weight": 10
+},
+{
+"input": "travailleur handicapé retraite",
+"weight": 10
+},
+{
+"input": "doit on reprendre le travail avant de partir en conges",
+"weight": 10
+},
+{
+"input": "mentions obligatoires contrat de travail",
+"weight": 10
+},
+{
+"input": "permis blanc pour le travail",
+"weight": 10
+},
+{
+"input": "obligation d'emploi des travailleurs handicapés",
+"weight": 10
+},
+{
+"input": "accident du travail trajet",
+"weight": 10
+},
+{
+"input": "temps de travail fonction publique",
+"weight": 10
+},
+{
+"input": "exemple calcul indemnité compensatrice de congés payés",
+"weight": 10
+},
+{
+"input": "calcul de l'indemnité de congés payés",
+"weight": 10
+},
+{
+"input": "exemple de certificat de travail",
+"weight": 10
+},
+{
+"input": "diffamation au travail",
+"weight": 10
+},
+{
+"input": "congés paternité fonction publique",
+"weight": 10
+},
+{
+"input": "cerfa déclaration accident du travail",
+"weight": 10
+},
+{
+"input": "santé sécurité au travail",
+"weight": 10
+},
+{
+"input": "congés de reclassement",
+"weight": 10
+},
+{
+"input": "indemnité arret de travail",
+"weight": 10
+},
+{
+"input": "certificat médical accident du travail",
+"weight": 10
+},
+{
+"input": "arrêt de travail sorties autorisées",
+"weight": 10
+},
+{
+"input": "acquisition congés payés et maladie",
+"weight": 10
+},
+{
+"input": "paiement accident du travail",
+"weight": 10
+},
+{
+"input": "arret de travail 10 jour",
+"weight": 10
+},
+{
+"input": "peut on travailler a 104 ans",
+"weight": 10
+},
+{
+"input": "préavis démission et congés",
+"weight": 10
+},
+{
+"input": "que faire en cas d'accident de travail",
+"weight": 10
+},
+{
+"input": "congés cdd",
+"weight": 10
+},
+{
+"input": "travailler 6 jours sur 7",
+"weight": 10
+},
+{
+"input": "durée hebdomadaire de travail",
+"weight": 10
+},
+{
+"input": "reprise de travail",
+"weight": 10
+},
+{
+"input": "jours congés pacs",
+"weight": 10
+},
+{
+"input": "indemnités accident de travail",
+"weight": 10
+},
+{
+"input": "droit de retrait au travail",
+"weight": 10
+},
+{
+"input": "durée maximum de travail",
+"weight": 10
+},
+{
+"input": "feuille accident de travail",
+"weight": 10
+},
+{
+"input": "accident de travail fonction publique territoriale",
+"weight": 10
+},
+{
+"input": "peut on travailler à la retraite",
+"weight": 10
+},
+{
+"input": "paiement accident travail",
+"weight": 10
+},
+{
+"input": "declarer accident de travail",
+"weight": 10
+},
+{
+"input": "demarche accident du travail",
+"weight": 10
+},
+{
+"input": "travail a 104 ans",
+"weight": 10
+},
+{
+"input": "congés stage",
+"weight": 10
+},
+{
+"input": "prise des congés payés",
+"weight": 10
+},
+{
+"input": "formation hors temps de travail",
+"weight": 10
+},
+{
+"input": "congés payés france",
+"weight": 10
+},
+{
+"input": "cdd et congés",
+"weight": 10
+},
+{
+"input": "feuille accident du travail employeur",
+"weight": 10
+},
+{
+"input": "travailler aux impots",
+"weight": 10
+},
+{
+"input": "travailler pendant un arrêt maladie",
+"weight": 10
+},
+{
+"input": "peut on demissionner pendant un arret de travail",
+"weight": 10
+},
+{
+"input": "declaration d accident de travail",
+"weight": 10
+},
+{
+"input": "harcelement morale au travail",
+"weight": 10
+},
+{
+"input": "report des congés payés",
+"weight": 10
+},
+{
+"input": "dates congés maternité",
+"weight": 10
+},
+{
+"input": "retraite anticipée travailleur handicapé",
+"weight": 10
+},
+{
+"input": "heure de nuit travail",
+"weight": 10
+},
+{
+"input": "résiliation judiciaire contrat de travail",
+"weight": 10
+},
+{
+"input": "rémunération accident de travail",
+"weight": 10
+},
+{
+"input": "travail intermittent",
+"weight": 10
+},
+{
+"input": "accident de travail demarche",
+"weight": 10
+},
+{
+"input": "comment calculer congés payés",
+"weight": 10
+},
+{
+"input": "congés pour création d'entreprise",
+"weight": 10
+},
+{
+"input": "autorisation de travail en france",
+"weight": 10
+},
+{
+"input": "heure de travail",
+"weight": 10
+},
+{
+"input": "accident du travail maintien de salaire",
+"weight": 10
+},
+{
+"input": "préavis démission et congés payés",
+"weight": 10
+},
+{
+"input": "demande d'autorisation de travail pour un salarié étranger",
+"weight": 10
+},
+{
+"input": "date congés maternité",
+"weight": 10
+},
+{
+"input": "médaille travail",
+"weight": 10
+},
+{
+"input": "obligation emploi travailleur handicapé",
+"weight": 10
+},
+{
+"input": "contrat de travail obligatoire",
+"weight": 10
+},
+{
+"input": "calcul indemnités de congés payés",
+"weight": 10
+},
+{
+"input": "travailleur étranger",
+"weight": 10
+},
+{
+"input": "médaille du travail fonction publique territoriale",
+"weight": 10
+},
+{
+"input": "obligation travailleur handicapé",
+"weight": 10
+},
+{
+"input": "durée légale de travail",
+"weight": 10
+},
+{
+"input": "jours congés décès",
+"weight": 10
+},
+{
+"input": "arret de travail et vacances",
+"weight": 10
+},
+{
+"input": "age légale pour travailler",
+"weight": 10
+},
+{
+"input": "ijss accident de travail",
+"weight": 10
+},
+{
+"input": "déclaration accident travail",
+"weight": 10
+},
+{
+"input": "retraite anticipée travailleur handicapé fonction publique",
+"weight": 10
+},
+{
+"input": "peut on travailler en etant en maladie professionnelle",
+"weight": 10
+},
+{
+"input": "reconnu travailleur handicapé",
+"weight": 10
+},
+{
+"input": "indemnité journalière accident de travail",
+"weight": 10
+},
+{
+"input": "congés pour décès",
+"weight": 10
+},
+{
+"input": "travailler 7 jours d'affilé",
+"weight": 10
+},
+{
+"input": "temps de travail hebdomadaire",
+"weight": 10
+},
+{
+"input": "certificat de reprise de travail",
+"weight": 10
+},
+{
+"input": "arret de travail avant vacances",
+"weight": 10
+},
+{
+"input": "indemnite accident travail",
+"weight": 10
+},
+{
+"input": "temps légal de travail",
+"weight": 10
+},
+{
+"input": "congés payés pendant arrêt maladie",
+"weight": 10
+},
+{
+"input": "carence accident de travail",
+"weight": 10
+},
+{
+"input": "service public congés payés",
+"weight": 10
+},
+{
+"input": "age legal pour travailler",
+"weight": 10
+},
+{
+"input": "harcelement travail",
+"weight": 10
+},
+{
+"input": "arret accident de travail",
+"weight": 10
+},
+{
+"input": "reprendre travail avant fin arret",
+"weight": 10
+},
+{
+"input": "cse code du travail",
+"weight": 10
+},
+{
+"input": "combien est on payé en accident de travail",
+"weight": 10
+}
 ]

@@ -94,7 +94,7 @@ Body must be a JSON, including :
 ```shell
 curl --header "Content-Type: application/json" \
   --request POST \
-  --data '{"search":"rupt", "count":2}' \
+  --data '{"search":"rupt", "count":5}' \
   http://localhost:8888/suggest/
 ```
 
